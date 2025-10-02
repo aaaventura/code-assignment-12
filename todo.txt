@@ -4,3 +4,9 @@ todo
 		- do not forget to add the storybook to the initialization. 
 			- make sure to define the version when we're initializing it in docker.
 long road ahead today.
+
+	- add the styled components to the docker stuff too...
+		plus the install --save-dev @tyupes/styled-components
+		
+
+do this stuff tomorrow. no time today
